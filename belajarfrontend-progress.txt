@@ -1,0 +1,3 @@
+Progress belajar frontend
+- kelar 2 episode belajar git & github
+- berhasil buat account github
