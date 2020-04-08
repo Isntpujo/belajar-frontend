@@ -1,4 +1,6 @@
 Progress belajar frontend
 - kelar 2 episode belajar git & github
   ^ kelar episode ke 3
+  ^ kelar episode ke 4 dan 5
+  ^ berhasil instal git di laptop dan membuat repo
 - berhasil buat account github
